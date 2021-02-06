@@ -1,0 +1,20 @@
+#---
+#spring:
+#  profiles: default
+#message: "Hello, from local!"
+#---
+#spring:
+#  profiles: production
+#message: "Hello, from App Engine!"
+
+
+
+
+spring.mvc.view.prefix: /WEB-INF/jsp/
+spring.mvc.view.suffix: .jsp
+
+
+
+
+#spring:
+#  profiles: production

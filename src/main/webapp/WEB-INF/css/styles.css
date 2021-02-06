@@ -1,0 +1,101 @@
+@charset "ISO-8859-1";
+
+body {
+	
+	background-color: yellow;
+	
+}
+
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+
+	.for_h2 h2 {
+	
+		font-size: 52px;
+		font-weght: bold;
+		color: red;
+	
+	}
+
+	.all_img img {
+	
+		width: 810px;
+    	height: 394px;
+	
+	}
+	
+	.carousel-inner {
+	
+		width: 810px;
+    	height: 394px;
+	
+	}
+	
+	
+	#myCarousel {
+	
+		width: 810px;
+    	height: 394px;
+		
+	}
+
+}
+
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+	
+	
+	
+}
+
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+
+
+}
+
+
+
+
+    /* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+
+
+
+
+}
+
+
+
+
+
+/* IE8 */
+@media \0screen\,screen\9 {
+	
+
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
